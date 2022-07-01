@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 715e64ee2f386ff40b7dc783e5467caf, type: 3}
+  m_Name: BioBateria
+  m_EditorClassIdentifier: 
+  itemName: Bio Bateria
+  itemPrefab: {fileID: 4982757133591877205, guid: cc76e3801ec63af4998bf602b240064f,
+    type: 3}
+  amount: 1
+  id: 6
+  description: 
+  sprite: {fileID: 21300000, guid: 451b09710fb6221499d3453dc8c62816, type: 3}

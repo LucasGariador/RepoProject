@@ -1,0 +1,5 @@
+interface IInteract
+{
+    void ActivateObject();
+
+}
